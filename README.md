@@ -13,6 +13,6 @@ $ bundle exec rails server
 
 
 ------------ | -------------
-Assani Samuel | @sassani :baby_chick:
-
+Assani Samuel | @sassani :fire:
+RECHER Romain | @RomainRec :fire:
 
